@@ -33,9 +33,6 @@ Edit **config.py** with your own values
 $ python3 -m spr
 ```
 
-# Heroku
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/OkaeriSpamProtection/)
 
 Edit **config.env** With Own Values.
 
